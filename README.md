@@ -1,7 +1,9 @@
 # ElasticsearchBase
 
 Spring Boot: 2.3.6.RELEASE
+
 Spring Data Elasticsearch: 4.0.5.RELEASE
+
 Elasticsearch: 7.8.0
 
 [Spring Data Elasticsearch 与Elasticsearch 版本对应关系](https://github.com/spring-projects/spring-data-elasticsearch/blob/main/src/main/asciidoc/preface.adoc)
